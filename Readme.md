@@ -7,4 +7,4 @@
 npm install
 
 my email is ...
-my email pp300448@gmail.com
+my email kai P ta @gmail.kaiPta
